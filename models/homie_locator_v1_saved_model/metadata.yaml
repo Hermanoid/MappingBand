@@ -1,0 +1,30 @@
+description: Ultralytics homie_locator_v1 model trained on data/drill_aug/data.yaml
+author: Ultralytics
+date: '2024-12-05T11:52:06.277906'
+version: 8.3.40
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 1024
+- 1024
+names:
+  0: asax
+  1: bari
+  2: bdrum
+  3: bone
+  4: bsax
+  5: clarinet
+  6: cymbal
+  7: dm
+  8: flute
+  9: mello
+  10: person
+  11: pit
+  12: sdrum
+  13: sousa
+  14: tdrum
+  15: trumpet
+  16: tsax
